@@ -12,7 +12,7 @@ Funcionalidades:
 
 Como Usar:
  - Clone o repositório:
- - git clone https://github.com/seu-usuario/nome-do-repositorio.git
+ - git clone https://github.com/DiogoAnderle/modulo-node-js-DiogoAnderle.git
  - Execute a aplicação:
  - node app.js
  - Informe o caminho de um arquivo .txt e veja o resumo gerado.
